@@ -5,7 +5,21 @@
 - 📫 How to reach me **spurn.02-puffer@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
-<div style="display:flex; align-items:center">
+<p align="left">
+<a href="https://linkedin.com/in/vadim-fokin-2a469a257" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadim-fokin-2a469a257" height="30" width="40" />
+</a>
+<a href="https://instagram.com/f_ckin_vadim" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f_ckin_vadim" height="30" width="40" />
+</a>
+<a href="https://t.me/f_ckin_vadim" rel="nofollow">
+  <img align="center" alt="f_ckin_vadim | Telegram" height="40" width="40" src="https://img.icons8.com/color/512/telegram-app.png">
+</a>
+<a href="https://wa.link/hm0q2x" rel="nofollow">
+  <img align="center" alt="f_ckin_vadim | WhatsApp" height="40" width="40" src="https://img.icons8.com/color/512/whatsapp--v2.png">
+</a>
+</p>
+<!-- <div style="display:flex; align-items:center">
   <a id="telegram-animation" href="https://t.me/f_ckin_vadim" style="width: 50px; height: 50px">
     <script>
       const telegram = bodymovin.loadAnimation({
@@ -50,7 +64,7 @@
       });
     </script>
   </a>
-</div>
+</div> -->
 
 </p>
 
