@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vadim-fokin-2a469a257" target="blank">
+<a href="www.linkedin.com/in/fokin-vadim" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadim-fokin-2a469a257" height="30" width="40" />
 </a>
 <a href="https://instagram.com/f_ckin_vadim" target="blank">
