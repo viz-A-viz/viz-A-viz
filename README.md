@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fokin Vadim</h1>
-<h3 align="center">Fullstack Developer from Russia</h3>
+<h3 align="center">Backend Developer from Russia</h3>
 
 - 📫 How to reach me **spurn.02-puffer@icloud.com**
 
@@ -18,52 +18,6 @@
   <img align="center" alt="f_ckin_vadim | WhatsApp" height="40" width="40" src="https://img.icons8.com/color/512/whatsapp--v2.png">
 </a>
 </p>
-<!-- <div style="display:flex; align-items:center">
-  <a id="telegram-animation" href="https://t.me/f_ckin_vadim" style="width: 50px; height: 50px">
-    <script>
-      const telegram = bodymovin.loadAnimation({
-        container: document.getElementById('telegram-animation'),
-        path: 'icons/social/telegram.json',
-        renderer: 'svg',
-        loop: true,
-        autoplay: true,
-      });
-    </script>
-  </a>
-  <a id="whatsapp-animation" href="https://wa.link/hm0q2x" style="width: 50px; height: 50px">
-    <script>
-      const watsapp = bodymovin.loadAnimation({
-        container: document.getElementById('whatsapp-animation'),
-        path: 'icons/social/whatsapp.json',
-        renderer: 'svg',
-        loop: true,
-        autoplay: true,
-      });
-    </script>
-  </a>
-  <a id="linkedin-animation" href="https://linkedin.com/in/vadim-fokin-2a469a257" style="width: 50px; height: 50px">
-    <script>
-      const linkedin = bodymovin.loadAnimation({
-        container: document.getElementById('linkedin-animation'),
-        path: 'icons/social/linkedin.json',
-        renderer: 'svg',
-        loop: true,
-        autoplay: true,
-      });
-    </script>
-  </a>
-  <a id="instagram-animation" href="https://instagram.com/f_ckin_vadim" style="width: 60px; height: 60px;">
-    <script>
-      const instagram = bodymovin.loadAnimation({
-        container: document.getElementById('instagram-animation'),
-        path: 'icons/social/instagram.json',
-        renderer: 'svg',
-        loop: true,
-        autoplay: true,
-      });
-    </script>
-  </a>
-</div> -->
 
 </p>
 
