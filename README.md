@@ -22,33 +22,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/TypeScript.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/NodeJS.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/ExpressJS.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/React.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/React-Native.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/Redux.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/CSS.svg" alt="css3" width="40" height="40"/>      </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/HTML.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/Figma.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/Blender.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/PostgreSQL.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="icons/langs-and-tools/Postman.svg" alt="postman" width="40" height="40"/> </a>  
-   </p>
+
+   [![My Skills](https://skillicons.dev/icons?i=go,js,ts,nodejs,nestjs,prisma,postgres,docker,prometheus,grafana,rabbitmq,linux,nginx)](https://skillicons.dev)
