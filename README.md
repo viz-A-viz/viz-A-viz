@@ -4,20 +4,11 @@
 - 📫 How to reach me **spurn.02-puffer@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fokin-vadim" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadim-fokin-2a469a257" height="30" width="40" />
-</a>
-<a href="https://instagram.com/f_ckin_vadim" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f_ckin_vadim" height="30" width="40" />
-</a>
-<a href="https://t.me/f_ckin_vadim" rel="nofollow">
-  <img align="center" alt="f_ckin_vadim | Telegram" height="40" width="40" src="https://img.icons8.com/color/512/telegram-app.png">
-</a>
-<a href="https://wa.link/hm0q2x" rel="nofollow">
-  <img align="center" alt="f_ckin_vadim | WhatsApp" height="40" width="40" src="https://img.icons8.com/color/512/whatsapp--v2.png">
-</a>
-</p>
+
+[<img src="https://img.icons8.com/color/512/linkedin" height="50" width="50">](https://www.linkedin.com/in/fokin-vadim)
+[<img src="https://img.icons8.com/fluency/512/instagram-new.png" height="50" width="50">](https://instagram.com/f_ckin_vadim)
+[<img src="https://img.icons8.com/color/512/telegram-app.png" height="50" width="50">](https://t.me/f_ckin_vadim)
+[<img src="https://img.icons8.com/color/512/whatsapp--v2.png" height="50" width="50">](https://wa.link/hm0q2x)
 
 </p>
 
